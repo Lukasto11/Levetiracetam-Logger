@@ -1,2 +1,8 @@
 # Levetiracetam-Logger
-logger for educational purposes strictly made to see how we can protect ourselves better
+
+this is used strictly just for the purpose of testing and seeing how we can better protect ourselfs online.
+
+- For Educational Purposes Only
+- We decline any responsability in case of misuse of this code.
+
+have fun testing.
