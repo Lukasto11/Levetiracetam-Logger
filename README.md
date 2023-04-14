@@ -1,4 +1,4 @@
-# Levetiracetam-Logger
+# Discord-Levetiracetam-Logger
 
 ❌ This is used strictly just for the purpose of testing and seeing how we can better protect ourselfs online. ❌ 
 
